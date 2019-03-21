@@ -10,5 +10,8 @@ public class HelloWorld {
         for(int i = 0; i < 5; i++){
             System.out.println("This is feature4");
         }
+        if(true){
+            System.out.println("This is feature3");
+        }
     }
 }
